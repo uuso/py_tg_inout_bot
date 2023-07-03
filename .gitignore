@@ -1,0 +1,4 @@
+db/*.db
+tmp/*.xlsx
+logs/*.log
+.env
